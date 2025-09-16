@@ -19,7 +19,7 @@ input{
 fieldset{
     padding: 30px;
     background-color: pink;
-    margin: 80px;
+    margin: 50px;
     width: 400px;
     height: auto;
 }
