@@ -36,17 +36,17 @@ body{
     
     <label for="name">Name:</label>
     <input type="text" id="name" name="name" placeholder="Enter your name"><br><BR>
-    <label for="name">Name:</label>
-    <input type="test" id="name" name="name" placeholder="Enter your name"><br><BR>
+  
+
 
      <label for="password">Password:</label>
     <input type="password" id="password" name="password" placeholder="Enter password"><br><br>
 
      <label for="age">Age:</label>
+     <input type="number" id="emale" name="emale" placeholder="Enter your age"><br><br>
     <label for="email">Email:</label>
     <input type="email" id="email" name="email" placeholder="Enter your email"><br><br>
-    <label for="emale">Emale:</label>
-    <input type="email" id="emale" name="emale" placeholder="Enter your emale"><br><br>
+  
 
 
      <label for="male">Male:</label>
