@@ -48,7 +48,7 @@ body{
     <input type="email" id="email" name="email" placeholder="Enter your email"><br><br>
   
 
-
+    <label for ="Gender">Gender:</label>
      <label for="male">Male:</label>
     <input type ="radio" id="male" name="gender" value="male"><br>
 
